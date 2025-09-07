@@ -19,22 +19,8 @@ This repository maintains structured data about engineering entrance examination
 - Education researchers
 - Data analysts
 
-## Repository Structure
-
-```
-engineering-entrance-examination/
-├── 2025_batch/
-│   ├── EntranceExamData.csv       # Structured CSV data for 2025 examinations
-│   ├── EntranceExamTabularData.txt # Data in markdown table format
-│   └── EntranceExaminations.txt    # Additional examination information
-└── rough_files/
-    └── DetailedUnstructuredData.txt # Raw unstructured data
-```
-
 ### Key Files
 1. `EntranceExamData.csv`: Primary data file in CSV format for easy integration with data analysis tools
-2. `EntranceExamTabularData.txt`: Data in markdown table format for better readability
-3. `DetailedUnstructuredData.txt`: Source data and additional details
 
 ## Data Details
 
